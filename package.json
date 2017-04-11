@@ -1,6 +1,6 @@
 {
   "name": "msl-utils",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Collection of utilities for MSL sites",
   "main": "dist/msl-utils.js",
   "module": "dist/msl-utils.mjs",
